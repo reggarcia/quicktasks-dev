@@ -1,5 +1,5 @@
 {
-  "name": "Quick Tasks",
+  "name": "QuickTasks",
   "version": "0.1.0",
   "description": "",
   "main": "server.js",
@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "bcrypt": "^0.7.8",
+    "forever": "^0.11.1",
     "mongojs": "^0.13.0",
     "morgan": "^1.1.1",
     "restify": "^2.8.1"

@@ -1,0 +1,30 @@
+2014-07-03 20:12:47.511 QuickTasks App[32603:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-03 20:12:47.541 QuickTasks App[32603:90b] Unlimited access to network resources
+2014-07-03 20:12:47.545 QuickTasks App[32603:90b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-03 20:12:47.762 QuickTasks App[32603:90b] [CDVTimer][keyboard] 0.088990ms
+2014-07-03 20:12:47.763 QuickTasks App[32603:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-03 20:12:47.763 QuickTasks App[32603:90b] [CDVTimer][statusbar] 0.371039ms
+2014-07-03 20:12:47.763 QuickTasks App[32603:90b] [CDVTimer][TotalPluginStartup] 1.401007ms
+2014-07-03 20:12:47.928 QuickTasks App[32603:90b] Resetting plugins due to page load.
+2014-07-03 20:12:48.157 QuickTasks App[32603:90b] Finished load of: file:///Users/mgarcia11/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7B04E29E-9317-4F55-A6A0-FF655DAFF620/QuickTasks%20App.app/www/index.html#/auth/signin
+2014-07-03 20:13:55.000 QuickTasks App[32787:90b] Multi-tasking -> Device: YES, App: YES
+2014-07-03 20:13:55.006 QuickTasks App[32787:90b] Unlimited access to network resources
+2014-07-03 20:13:55.009 QuickTasks App[32787:90b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-07-03 20:13:55.023 QuickTasks App[32787:90b] [CDVTimer][keyboard] 0.060022ms
+2014-07-03 20:13:55.023 QuickTasks App[32787:90b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-03 20:13:55.023 QuickTasks App[32787:90b] [CDVTimer][statusbar] 0.339031ms
+2014-07-03 20:13:55.024 QuickTasks App[32787:90b] [CDVTimer][TotalPluginStartup] 1.316965ms
+2014-07-03 20:13:55.085 QuickTasks App[32787:90b] Resetting plugins due to page load.
+2014-07-03 20:13:55.196 QuickTasks App[32787:90b] Finished load of: file:///Users/mgarcia11/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7B04E29E-9317-4F55-A6A0-FF655DAFF620/QuickTasks%20App.app/www/index.html#/auth/signin
