@@ -1,0 +1,16 @@
+{
+  "name": "Quick Tasks",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Regina Garcia",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "bcrypt": "^0.7.8",
+    "mongojs": "^0.13.0",
+    "morgan": "^1.1.1",
+    "restify": "^2.8.1"
+  }
+}
