@@ -1,4 +1,4 @@
-angular.module('bucketList.services', [])
+angular.module('quickTasks.services', [])
     .factory('API', function ($rootScope, $http, $ionicLoading, $window) {
        var base = "http://localhost:9804";
         $rootScope.show = function (text) {
