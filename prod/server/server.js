@@ -1,8 +1,8 @@
 var restify     =   require('restify');
 var mongojs     =   require('mongojs');
 var morgan      =   require('morgan');
-var db          =   mongojs('mongodb://admin:test@ds037617.mongolab.com:37617/bucketlistapp', ['users','bucketLists']);
-//var db          =   mongojs('mongodb://admin:admin123@dbh36.mongolab.com:27367/bucketlistapp', ['users','bucketLists']);
+//var db          =   mongojs('mongodb://admin:test@ds037617.mongolab.com:37617/bucketlistapp', ['users','bucketLists']);
+var db          =   mongojs('mongodb://admin:admin123@dbh36.mongolab.com:27367/bucketlistapp', ['users','bucketLists']);
 var server      =   restify.createServer();
 
 
